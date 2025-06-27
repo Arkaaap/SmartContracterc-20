@@ -1,5 +1,6 @@
 # SmartContracterc-20
 # Deploy a smart contract using remix ide and deploy it into sepoila testnet under etherium 
+# company : CODETECH IT SOLUTIONS Name : Arkapriya Das Intern Id : CT08DG657 Domain : BLOCKCHAIN TECHNOLOGY Duration : 8 weeks Mentor : NEELA SANTOSH
 | Field              | Value                       |
 | ------------------ | --------------------------- |
 | **Token Name**     | MyToken                     |
