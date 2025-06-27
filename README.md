@@ -1,13 +1,13 @@
 # SmartContracterc-20
 # Deploy a smart contract using remix ide and deploy it into sepoila testnet under etherium 
-*| Field              | Value                       |
+| Field              | Value                       |
 | ------------------ | --------------------------- |
 | **Token Name**     | MyToken                     |
 | **Symbol**         | MTK                         |
 | **Decimals**       | 18 (default for ERC-20)     |
 | **Initial Supply** | 1,000,000 MTK (1 million)   |
 | **Contract Owner** | 0x80505cdbe85d8FCBEf334044dA4004370eFf4825
-| **Contract**       | Deployed to Sepolia Testnet |*
+| **Contract**       | Deployed to Sepolia Testnet |
 
 
 
